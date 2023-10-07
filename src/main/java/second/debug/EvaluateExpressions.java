@@ -31,7 +31,7 @@ public class EvaluateExpressions {
                                               final int index)
     {
         // First let's check our method arguments to see if they're valid
-        if (index < 0 || index >= list.size()) {
+        if (index < 0 || index >= list.size()-1) {
             throw new IllegalArgumentException(
                     "If you don't mind, I would prefer not to process your object...");
         }
