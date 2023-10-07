@@ -11,7 +11,7 @@ public class ProcessQuery {
     }
 
     public String process() {
-        return queryClass.query().toUpperCase();
+        return queryClass.query("").toUpperCase();
     }
 
 }
