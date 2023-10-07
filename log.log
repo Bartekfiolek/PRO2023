@@ -1,0 +1,12 @@
+2023-10-07 13:43:10 INFO  name:15 - message
+2023-10-07 13:44:15 INFO  name:15 - message
+2023-10-07 13:44:53 INFO  name:15 - message
+2023-10-07 13:45:29 INFO  name:15 - message
+2023-10-07 13:46:05 INFO  name:15 - message
+2023-10-07 13:54:22 ERROR name:23 - Sorry, something wrong!
+java.lang.ArithmeticException: / by zero
+	at introduction.HelloWorld.divide(HelloWorld.java:9)
+	at introduction.HelloWorld.main(HelloWorld.java:17)
+2023-10-07 14:10:53 INFO  name:11 - message
+2023-10-07 14:11:03 INFO  name:11 - message
+2023-10-07 14:11:17 INFO  name:11 - message
